@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Nov 23 20:20:57 2021
+Created on Friday,May 12, 2023, 10:35:35 PM
 
 @author: paras
 """
@@ -11,7 +11,7 @@ from tkinter import*
 from tkinter import messagebox
 import tkinter.font as font
 
-data =pd.read_csv(r"C:\Users\dkuma\7. Udemy Courses.csv")
+data =pd.read_csv(r"C:\Users\dkuma\Downloads\7. Udemy Courses.csv")
 
 root=Tk()
 
