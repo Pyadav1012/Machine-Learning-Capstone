@@ -1,15 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 23 20:20:57 2021
 
-@author: paras
-"""
-
-import pandas as pd
-import tableprint as tp
-from rich.console import Console
-from rich.table import Column, Table
-data =pd.read_csv(r"# -*- coding: utf-8 -*-
 """
 Created on Friday,May 12,2023,10:35:35 PM
 
